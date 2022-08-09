@@ -50,7 +50,7 @@ const TodoCard = ({ item }: { item: ITodo }) => {
           style={{
             color: colors.text,
             fontWeight: 'bold',
-            fontSize: 21,
+            fontSize: 16,
             width: '60%',
           }}
         >
