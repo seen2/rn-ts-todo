@@ -23,7 +23,7 @@
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-native": "0.69.3",
+    "react-native": "0.69.4",
     "react-native-ionicons": "*",
     "react-native-paper": "2.2.8",
     "react-native-pose": "*",
@@ -35,7 +35,8 @@
     "redux": "^4.2.0",
     "redux-persist": "*",
     "redux-persist-expo-filesystem": "*",
-    "redux-thunk": "*"
+    "redux-thunk": "*",
+    "expo-dev-client": "~1.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
